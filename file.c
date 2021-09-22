@@ -12,7 +12,7 @@ int main(){
 	
 	key:
 	if(count<5){
-	system("clear");
+	system("cls");
 	printf("Enter the password: ");
 	scanf("%s",in);
 	}
