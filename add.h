@@ -72,7 +72,7 @@ int add()
 
 	//Option 3 to delete a data from the file 
 	else if(n==3){
-        system("clear");
+        system("cls");
         printf("Enter the student ID you want to remove: ");
         scanf("%d",&delete);
 
@@ -105,7 +105,7 @@ system("cd.> copy.txt");
     else if(n==5){
         system("clear");
 		system("^C");
-        system("clear");
+        system("cls");
         system("exit");
     }
 
