@@ -7,7 +7,7 @@
 
 int main(){
 	char in[15];
-	char pass[15]={"Pranab"};
+	char pass[15]={"admin123"};
 	int value,count=0;
 	
 	key:
